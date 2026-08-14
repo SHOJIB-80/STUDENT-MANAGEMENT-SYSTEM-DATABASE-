@@ -310,7 +310,7 @@ Contributions are welcome! If you have suggestions, bug reports, or improvements
 
 **Project Author:** SHOJIB-80
 
-📧 **Email:** [Your Email]
+📧 **Email:** [shojib456123@gmail.com]
 
 💬 **GitHub Issues:** [Report bugs or request features](https://github.com/SHOJIB-80/STUDENT-MANAGEMENT-SYSTEM-DATABASE-/issues)
 
